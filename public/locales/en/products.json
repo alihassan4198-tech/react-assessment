@@ -1,0 +1,13 @@
+{
+	"title": {
+		"create": "Create a Product",
+		"edit": "Edit a Product"
+	},
+	"sku": "SKU",
+	"category": "Category",
+	"quantity": "Quantity",
+	"price": "Price",
+	"productTitle": "Title",
+	"status": "Status",
+	"priceSale": "Sale Price"
+}
